@@ -1,0 +1,39 @@
+# Основные ML библиотеки
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+transformers>=4.30.0
+accelerate>=0.20.0
+
+# Веб-сервер и WebSocket
+flask>=2.3.0
+flask-socketio>=5.3.0
+
+# Аудио обработка
+sounddevice>=0.4.6
+soundfile>=0.12.1
+TTS>=0.13.0
+openai-whisper>=20230314
+
+# Обработка изображений и видео
+pillow>=10.0.0
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Системный мониторинг
+psutil>=5.9.0
+py3nvml>=0.2.7
+
+# VTuber специфичные
+websockets>=11.0.0
+obs-websocket-py==1.0
+pydub>=0.25.0
+
+# Для чата и стриминга
+requests>=2.31.0
+
+# Дополнительные утилиты
+numpy>=1.24.0
+matplotlib>=3.7.0
+fastapi>=0.100.0
+uvicorn>=0.22.0

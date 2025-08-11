@@ -1,0 +1,7 @@
+# OBS Service Dependencies
+flask>=2.3.0
+flask-socketio>=5.3.0
+obs-websocket-py==1.0
+websockets>=11.0.0
+requests>=2.31.0
+numpy>=1.21.0
